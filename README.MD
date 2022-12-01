@@ -2,6 +2,12 @@
 
 *install dependencies*
 
+````cd backend````
+
+````npm install````
+
+````cd ../frontend````
+
 ````npm install````
 
 *set up .env file in 'backend' directory*
@@ -14,10 +20,14 @@ PORT=....<replace>....
 
 MONGO_URI=....<replace>....
 
-*run the server backend server*
+*run the backend server*
+
+````cd backend````
 
 ````npm run dev````
 
-*run the server frontend server*
+*run the frontend server in separate terminal*
+
+````cd frontend````
 
 ````npm start````
