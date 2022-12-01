@@ -14,11 +14,13 @@
 
 ````touch .env ````
 
-*add PORT & MONGO_URI to .env*
+*add PORT, MONGO_URI & SECRET to .env*
 
 PORT=....<replace>....
 
 MONGO_URI=....<replace>....
+
+SECRET=...<replace>....
 
 *run the backend server*
 
