@@ -22,13 +22,13 @@
 
 ### add PORT, MONGO_URI & SECRET to .env 
 
-PORT=<add port number>
+PORT=(add port number)
 
-MONGO_URI=<add mongo URI number>
+MONGO_URI=(add mongo URI number)
   
 - register at https://www.mongodb.com/cloud/atlas/register
 
-SECRET=<add secret>
+SECRET=(add secret)
 
 ### run the backend server
 
